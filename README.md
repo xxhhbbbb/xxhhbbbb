@@ -1,4 +1,4 @@
-# Hi, I'm Hengbo Xu 👋
+## Hi, I'm Hengbo Xu 👋
 
 I'm currently a Ph.D. student at Renmin University of China, advised by Prof. Zhiwu Lu.
 
